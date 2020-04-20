@@ -1,0 +1,12 @@
+--- 
+ae20: 
+  access_type: readonly
+  command: ~
+  desc: "NAPALM CLICK AE ENTRY BY BIGEVILBEARD"
+  hosts_format: pyats
+  hosts_location: ~
+  name: napalm-click-interfaces
+  pre_validate: ~
+  success_test: ~
+  track: poc
+  version: 1
