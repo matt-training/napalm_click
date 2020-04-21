@@ -1,7 +1,7 @@
 --- 
 ae20: 
   access_type: readonly
-  command: "virtualenv venv ; source ./venv/bin/activate; pip install -r requirements.txt; python iosxenapalmapi.click.py interfaces"
+  command: "virtualenv venv ; source ./venv/bin/activate ; pip install -r requirements.txt ; python iosxenapalmapi.click.py interfaces"
   desc: "NAPALM CLICK AE ENTRY BY BIGEVILBEARD"
   hosts_format: json
   hosts_location: automator-inventory.json
